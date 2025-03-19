@@ -1,0 +1,27 @@
+
+body{
+  height: 100vh;
+  width: 100vw;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+
+  font-family: sans-serif;
+}
+body #root{
+  height: 100%;
+  width: 100%;
+  display: flex;justify-self:center;
+  align-items: center;
+  flex-direction: column;
+}
+body canvas{
+  height: 50%;
+  width: 50%;
+}
+
+.vr{
+  height: 100%;
+  width: 1px;
+  background: gray;
+}

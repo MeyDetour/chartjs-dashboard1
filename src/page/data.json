@@ -1,0 +1,63 @@
+{
+  "totalUserCreated": 650,
+  "totalOrder": 1025,
+  "users": {
+    "connected": [50, 60, 50, 40, 30, 50, 40],
+    "buySomething": [20, 25, 22, 18, 15, 30, 27],
+    "clear": [5, 8, 6, 10, 12, 7, 4],
+    "firstOrder": [10, 12, 8, 15, 9, 14, 11],
+    "new": [8, 14, 9, 12, 7, 10, 13]
+  },
+  "addedData": {
+    "totalVisitsOfMonth": [500, 520, 480, 510, 530, 495, 505],
+    "totalVisitsOfWeek": [120, 130, 110, 140, 135, 125, 118],
+    "regularUsers": 230,
+    "giveUpUsers": 60,
+    "searchTime": 65
+  },
+  "products": {
+    "bestSeller": {
+      "name": "Robe fleuri",
+      "price": 23
+    },
+    "worstSeller": {
+      "name": "Boots jaune",
+      "price": 15
+    },
+    "tenBestSeller": [
+      { "name": "Robe fleuri", "price": 23 },
+      { "name": "Jean slim", "price": 30 },
+      { "name": "Sneakers blanches", "price": 50 },
+      { "name": "T-shirt coton", "price": 15 },
+      { "name": "Sac en cuir", "price": 60 },
+      { "name": "Veste en jean", "price": 45 },
+      { "name": "Montre classique", "price": 80 },
+      { "name": "Écharpe laine", "price": 20 },
+      { "name": "Lunettes de soleil", "price": 35 },
+      { "name": "Casquette sport", "price": 18 }
+    ],
+    "tenWorstSeller": [
+      { "name": "Boots jaune", "price": 15 },
+      { "name": "Gants en laine", "price": 10 },
+      { "name": "Ceinture cuir", "price": 25 },
+      { "name": "Short de bain", "price": 22 },
+      { "name": "Pantalon cargo", "price": 40 },
+      { "name": "Chapeau en feutre", "price": 27 },
+      { "name": "Baskets montantes", "price": 55 },
+      { "name": "Pochette soirée", "price": 35 },
+      { "name": "Collier perles", "price": 45 },
+      { "name": "Chemise hawaïenne", "price": 32 }
+    ]
+  },
+  "cart": {
+    "mostExpensiveCart": 125,
+    "cheapestCart": 2,
+    "largestCart": 50,
+    "leastFilledtCart": 1,
+    "totalOrderThisWeek": 50,
+    "cleanedCart": 6,
+    "averageOfNumberOfProduct": 5,
+    "turnOverThisWeek": 3620,
+    "totlaUserWithoutOrder": 20
+  }
+}
